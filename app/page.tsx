@@ -87,7 +87,7 @@ return (
     </p>
 
     <p>
-      My goal is to bridge the gap between data and product — building intelligent systems that
+      My goal is to bridge the gap between data and product, building intelligent systems that
       are not only accurate, but also useful, scalable, and production-ready.
     </p>
   </div></section>
