@@ -19,7 +19,7 @@ const projects = [
   {
     name: "Optrixa",
     desc: "An All-in-one business management system taking care of everything(Inventory,expenses,sales,analysis dashboard) for small and medium scale businesses",
-    link: "https://github.com/Tusharr1212/Optrixa--All-in-one-Business-Management-Platform"
+    link: "https://github.com/Tusharr1212/Optrixa-postgres"
   }
 ];
 const skills=['C++','Python','SQL','Machine Learning','Next.js','React','FastAPI','Pandas','Git','Docker'];
