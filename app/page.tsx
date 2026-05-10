@@ -46,6 +46,13 @@ return (
 >
   Download Resume
 </a>
+<a
+  href="https://optrixa-ui.vercel.app/"
+  download
+  className="inline-flex items-center px-5 py-2 rounded-2xl border border-zinc-300 text-sm hover:bg-zinc-100 transition"
+>
+  Optrixa Website
+</a>
 <details className="mt-2">
   <summary className="cursor-pointer inline-flex items-center px-5 py-2 rounded-2xl border border-zinc-300 text-sm hover:bg-zinc-100 transition">
     Contact
